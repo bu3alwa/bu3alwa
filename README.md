@@ -38,7 +38,7 @@ devops, cloud computing.
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-000?logo=django&logoColor=00599C)
 ![Flask](https://img.shields.io/badge/flask-000.svg?logo=flask&logoColor=00599C)
 ![Flutter](https://img.shields.io/badge/Flutter-000.svg?logo=Flutter&logoColor=00599C)
-![Next JS](https://img.shields.io/badge/Next-black-000?logo=next.js&logoColor=00599C)
+![Next JS](https://img.shields.io/badge/Nextjs-000?logo=next.js&logoColor=00599C)
 ![Vue.js](https://img.shields.io/badge/vuejs-000.svg?logo=vuedotjs&logoColor=00599C)
 ![.Net](https://img.shields.io/badge/.NET-000?&logo=.net&logoColor=00599C)
 
